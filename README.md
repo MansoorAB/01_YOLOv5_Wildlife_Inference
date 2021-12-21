@@ -63,7 +63,7 @@ install juypter notebook
 clone this repo to your local machine and open 'Wildlife Inference.ipynb' from jupyter notebook
 or import the repo and ipynb from google colab (colab pro recommended)
 ```http
-    https://github.com/ultralytics/yolov5    
+    https://github.com/MansoorAB/YOLOv5_Wildlife_Inference
 ```
 
 The data for this project is present in the below Google drive link
