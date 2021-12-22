@@ -14,10 +14,8 @@
   * [To Do List](#to-do-list)
   
 ## Demo
-Video Inference
 [![](http://img.youtube.com/vi/PdNVwNN42mQ/0.jpg)](http://www.youtube.com/watch?v=PdNVwNN42mQ "Wildlife Inference/OD (Youtube Link)")
 
-Image Inference
 ![Image Inference](animals01.png)
 
 ## Overview
