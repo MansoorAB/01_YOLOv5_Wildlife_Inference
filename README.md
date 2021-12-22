@@ -14,8 +14,10 @@
   * [To Do List](#to-do-list)
   
 ## Demo
+Video Inference
 [![](http://img.youtube.com/vi/PdNVwNN42mQ/0.jpg)](http://www.youtube.com/watch?v=PdNVwNN42mQ "Wildlife Inference/OD (Youtube Link)")
 
+Image Inference
 ![Image Inference](animals01.png)
 
 ## Overview
@@ -24,6 +26,13 @@ This prototype is aimed at trying out Ultralytics Yolo aka YOLOv5
 For this purpose, about 250 wild animal images are used as training and validation dataset.
 They belong to 13 different classes. Background images with no class are added to reduce FP.
 Inference is made on a seperate image of a group of wild animals and a youtube video of several wild animals in action! 
+
+Animal classes used: (Only these classes will be inferred in image/video)
+Deer, Alligator, Elephant, Giraffe, Monkey, Lion, Hippo, Zebra, Leopard, Buffalo, Meerkat, Snake and Frog. 
+
+Training Details:
+The model was trained on Google Colab Pro with Tesla P100 GPU consisting 16GB RAM.
+Training was done for 300 epoch with image resolution 640 and batch size 16 using pretrained weights of yolov5s. Custom model has given a mAP of 0.61 after 300 epochs.
 
 ## Motivation
 Object detection in Computer Vision has its use in several areas of work in the industry.
