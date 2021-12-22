@@ -32,6 +32,8 @@ Deer, Alligator, Elephant, Giraffe, Monkey, Lion, Hippo, Zebra, Leopard, Buffalo
 The model was trained on Google Colab Pro with Tesla P100 GPU consisting 16GB RAM.
 Training was done for 300 epoch with image resolution 640 and batch size 16 using pretrained weights of yolov5s. Custom model has given a mAP of 0.61 after 300 epochs.
 
+*Please refere the folder 'colab_notebooks' for ipynb executed on colab*
+
 ## Motivation
 Object detection in Computer Vision has its use in several areas of work in the industry.
 This project is an attempt to understand YOLOv5 implemenation and improve its performance with hyper parameter tuning to get the best possible results.
