@@ -79,7 +79,7 @@ or import the repo and ipynb from google colab (colab pro recommended)
 
 The data for this project is present in the below Google drive link
 ```http
-    https://drive.google.com/drive/folders/1WL_p_iq7jEPbog4hbhxyki-M8BfcaVYN
+    https://drive.google.com/drive/folders/1fnBsL3QJRFA9wayNzKKPEqantv01NcwV
 ```
 
 ## Using Python Notebook:
