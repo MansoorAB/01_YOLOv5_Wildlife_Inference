@@ -11,11 +11,12 @@
   * [Technology Used](#technology-used)
   * [References](#references)
   * [Authors](#authors)
+  *[Contact](#contact)
   * [To Do List](#to-do-list)
   
 ## Demo
 
-### Animal Detection Youtube Link
+### Wildlife Detection Youtube Link:
 [![](http://img.youtube.com/vi/PdNVwNN42mQ/0.jpg)](http://www.youtube.com/watch?v=PdNVwNN42mQ "Wildlife Inference/OD (Youtube Link)")
 
 ![Image Inference](animals01.png)
@@ -148,6 +149,10 @@ alt="opencv" width="40" height="40"/> </a>
 ## Authors
 
 - [@Mansoor Baig](https://github.com/MansoorAB)
+
+## Contact
+
+- For any queries/suggestions please feel free to reach me at *baig.mansoorali@gmail.com*
 
 ## To Do List
 
