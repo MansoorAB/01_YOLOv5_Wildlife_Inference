@@ -11,7 +11,7 @@
   * [Technology Used](#technology-used)
   * [References](#references)
   * [Authors](#authors)
-  *[Contact](#contact)
+  * [Contact](#contact)
   * [To Do List](#to-do-list)
   
 ## Demo
